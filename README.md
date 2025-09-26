@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-%3E%3D%203.13.15-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![GitHub all releases](https://img.shields.io/github/downloads/francesco-calcagno/OpenOptimizers/total)
+![GitHub all releases](https://img.shields.io/github/downloads/francesco-calcagno/OpenOptimizers/)
 
 <div align="center">
     <img src="./img/OpenOptimizers-logo.png" width="600" />
